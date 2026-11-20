@@ -1,31 +1,39 @@
-Welcome to My Technical Portfolio 👋
+Getting Started with Cybersecurity
 
-About Me
+About This Credential
 
-I am an Electronics and Communication Engineering (ECE) student passionate about technology and innovation.
+I successfully completed the Getting Started with Cybersecurity learning program, gaining foundational knowledge of cybersecurity and digital safety.
 
-Areas of Interest
+Key Learnings
 
-- Embedded Systems
-- VLSI Design
-- Cybersecurity
-- Artificial Intelligence
-- Programming
+- Introduction to Cybersecurity
+- Understanding Cybersecurity Threats
+- Identifying Common Digital Risks
+- Importance of Online Safety
+- Basic Cybersecurity Practices
+- Protecting Digital Information
 
-Technical Skills
+Skills Developed
 
-- C Programming
-- Python (Beginner)
-- GitHub
+- Cybersecurity Awareness
+- Digital Safety
+- Understanding Security Risks
+- Responsible Technology Usage
 
-Certifications
+Credential Details
 
-- IBM SkillsBuild – Getting Started with Cybersecurity
-- IBM SkillsBuild – Protecting a Device with Malwarebytes
-- IBM SkillsBuild – Cybersecurity and Data
+- Credential Name: Getting Started with Cybersecurity
+- Domain: Cybersecurity
+- Achievement: Certificate of Completion
+- Badge: View My Cybersecurity Badge
+- https://www.credly.com/badges/33814526-cbad-40e8-9983-9ea53d7dd20f/public_url
 
-My Goal
+Learning Outcome
 
-To continuously improve my technical knowledge, develop practical projects, and grow as an engineer.
+This learning experience strengthened my awareness of cybersecurity concepts and the importance of protecting digital information in today's connected world.
 
-Thank you for visiting my portfolio!
+Purpose
+
+This repository documents my cybersecurity learning journey and showcases my commitment to continuous learning and professional development.
+
+Learn | Explore | Secure | Grow
